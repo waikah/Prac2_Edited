@@ -2,4 +2,9 @@
     <string name="app_name">Lab2_2Menu</string>
     <string name="action_settings">Settings</string>
     <string name="about_us">AboutUs</string>
+    <string name="visit_taruc">Visit Taruc</string>
+    <string name="dial_999">DIAL 999</string>
+    <string name="email_to_info_tarc_edu_my">Email to Info@Tarc.edu.my</string>
+    <string name="show_main">Show Main</string>
+    <string name="visit_tarcuc">Visit TARCUC</string>
 </resources>

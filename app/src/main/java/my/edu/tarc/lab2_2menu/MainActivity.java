@@ -68,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
         }else if(id == R.id.action_about_us){
             //TODO: create the AboutUs activity and Intent
             //to show it
-            Intent intent =new Intent(this,AboutUsActivity.class);
-            startActivity(intent);
+            Intent intent =new Intent(MainActivity.this,AboutUsActivity.class);
+            MainActivity.this.startActivity(intent);
         }
 
         return super.onOptionsItemSelected(item);

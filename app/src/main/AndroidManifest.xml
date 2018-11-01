@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AboutUsActivity" android:label= "@string/about_us" andriod:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".AboutUsActivity" android:label= "@string/about_us" android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
